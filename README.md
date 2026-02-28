@@ -117,7 +117,7 @@ Los resultados evidencian que la cancelación es un fenómeno multifactorial, in
 📦 Telecom-X-parte2
 ┣ 📜 README.md
 ┣ 📊 datos_tratados.csv/
-┣ 🤖 champion.pkl/
+┣ 🤖 champion (1).pkl/
 ┗ 📓 Telecom_X_parte_2.ipynb/
 ```
 
